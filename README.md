@@ -1,0 +1,1 @@
+# Simple Dropbox Integration for Joomla! 4
